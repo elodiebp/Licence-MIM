@@ -6,5 +6,7 @@
 <p>T'es moche</p>
 <p>plus que 7min</p>
 <p>Petit coucou de 2G et Manach et moi2</p>
+résolu
+<p>Petit coucou de 2G et Manach lolololol</p>
 </body>
 </html>
